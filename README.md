@@ -2,7 +2,7 @@
 
 This work attempts to illustrate a practical and simple application of several graph theory metrics on crime data that are relevant to a bipartite unweighted network. The aim is to help uncover insightful information based on relationships between a crime vertex and people associated with that crime. The graph algorithms used below are implemented by the [**NetworkX**](https://networkx.org/) Python library.
 
-The network documents provided by [KONECT](http://konect.cc/networks/moreno_crime/) and are stored in the *data* directory.
+The network documents are provided by [KONECT](http://konect.cc/networks/moreno_crime/) and stored in the *data* directory.
 
 **Click** [**here**](https://ali-senejani.github.io/GraphMining/) to see the notebook containing the analysis and code.
 
