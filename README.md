@@ -4,7 +4,9 @@ This work attempts to illustrate a practical and simple application of several g
 
 The data files are stored in the *data* directory.
 
-The notebook, *Networkx_crime.ipynb*,  containing the analysis and code is structured as follows:
+**Click** [**here**](https://ali-senejani.github.io/GraphMining/) to see the notebook containing the analysis and code.
+
+Table of Contents:
 1. Description of the data and properties of the graph network
 2. Data preprocessing
 3. Visual representation of data as a graph
